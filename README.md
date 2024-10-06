@@ -1,66 +1,58 @@
 # Curso Python FIAP - Study Repository
 
-Bem-vindo ao meu repositório de estudos do curso de Python da FIAP! Aqui, você encontrará toda a documentação dos meus estudos, desde os conceitos fundamentais até os tópicos mais avançados. Este repositório será atualizado conforme eu avançar no curso, organizando cada módulo com os principais tópicos abordados.
+Bem-vindo ao meu repositório de estudos do curso de Python da FIAP! Aqui, você encontrará toda a documentação dos meus estudos, desde os conceitos fundamentais até os tópicos mais avançados. Este repositório será atualizado conforme eu avançar no curso, organizando cada capítulo com os principais tópicos abordados.
 
-## 📚 Módulos
+## 📚 Capítulos
 
-- [Módulo 1 - Introdução ao Python](#módulo-1---introdução-ao-python)
-- [Módulo 2 - Estruturas de Dados](#módulo-2---estruturas-de-dados)
-- [Módulo 3 - Funções e Programação Modular](#módulo-3---funções-e-programação-modular)
-- [Módulo 4 - Manipulação de Arquivos](#módulo-4---manipulação-de-arquivos)
-- [Módulo 5 - Programação Orientada a Objetos](#módulo-5---programação-orientada-a-objetos)
-- [Módulo 6 - Tratamento de Exceções](#módulo-6---tratamento-de-exceções)
-- [Módulo 7 - Integração com Banco de Dados](#módulo-7---integração-com-banco-de-dados)
-- [Módulo 8 - Web Scraping](#módulo-8---web-scraping)
-- [Módulo 9 - Data Science e Machine Learning](#módulo-9---data-science-e-machine-learning)
+- [Cap 1 - Introdução à Linguagem Python](#cap-1---introdução-à-linguagem-python)
+- [Cap 2 - Variáveis, Tomada de Decisão e Laços de Repetição](#cap-2---variáveis-tomada-de-decisão-e-laços-de-repetição)
+- [Cap 3 - Manipulação de Listas, Funções e Módulos](#cap-3---manipulação-de-listas-funções-e-módulos)
+- [Cap 4 - Manipulação de Dicionário de Dados e Tuplas](#cap-4---manipulação-de-dicionário-de-dados-e-tuplas)
+- [Cap 5 - Manipulação de Arquivos e JSON](#cap-5---manipulação-de-arquivos-e-json)
+- [Cap 6 - Bibliotecas Externas e Sistema Operacional](#cap-6---bibliotecas-externas-e-sistema-operacional)
+- [Cap 7 - Protocolos de Comunicação e Python](#cap-7---protocolos-de-comunicação-e-python)
+- [Cap 8 - Python x IoT](#cap-8---python-x-iot)
 
-## 📖 Detalhes dos Módulos
+## 📖 Detalhes dos Capítulos
 
-### Módulo 1 - Introdução ao Python
-- **Fundamentos de Python**: Variáveis, Tipos de Dados, Operadores
-- **Instalação e Configuração**: Instalação do Python e ambientes virtuais
-- **Primeiros Programas**: Hello World, Sintaxe básica
+### Cap 1 - Introdução à Linguagem Python
+- **Fundamentos de Python**: Tipos de dados, Operadores e Sintaxe básica
+- **Ambientes Virtuais**: Instalação e configuração
 
-### Módulo 2 - Estruturas de Dados
-- **Listas**: Métodos, List Comprehension
-- **Tuplas**: Imutabilidade, Aplicações
-- **Dicionários**: Métodos e Operações
-- **Conjuntos**: União, Interseção e Diferença
+### Cap 2 - Variáveis, Tomada de Decisão e Laços de Repetição
+- **Variáveis e Tipos de Dados**: Atribuição, Input e Output
+- **Estruturas Condicionais**: `if`, `else`, `elif`
+- **Laços de Repetição**: `for` e `while`
 
-### Módulo 3 - Funções e Programação Modular
-- **Definindo Funções**: Parâmetros, Retorno de valores
-- **Funções Lambda**: Aplicações e usos práticos
-- **Módulos e Pacotes**: Como organizar o código em módulos
+### Cap 3 - Manipulação de Listas, Funções e Módulos
+- **Listas e Métodos**: Inserção, remoção e iteração
+- **Funções**: Parâmetros, retorno de valores, escopo
+- **Módulos**: Importação e criação de módulos
 
-### Módulo 4 - Manipulação de Arquivos
-- **Leitura e Escrita em Arquivos**: `open()`, leitura de arquivos `.txt`, `.csv`
-- **Gerenciamento de Arquivos**: Métodos de manipulação
+### Cap 4 - Manipulação de Dicionário de Dados e Tuplas
+- **Dicionários**: Operações básicas, métodos de manipulação
+- **Tuplas**: Imutabilidade, usos e vantagens
 
-### Módulo 5 - Programação Orientada a Objetos
-- **Classes e Objetos**: Instanciação de objetos, atributos e métodos
-- **Herança e Polimorfismo**: Conceitos e aplicações
+### Cap 5 - Manipulação de Arquivos e JSON
+- **Leitura e Escrita de Arquivos**: Manipulação de arquivos `.txt`, `.json`
+- **JSON**: Serialização e desserialização de dados
 
-### Módulo 6 - Tratamento de Exceções
-- **Exceções**: `try`, `except`, `finally`
-- **Criação de Exceções Personalizadas**
+### Cap 6 - Bibliotecas Externas e Sistema Operacional
+- **Bibliotecas Externas**: Instalação e uso de pacotes via `pip`
+- **Sistema Operacional**: Interações com o sistema usando `os` e `sys`
 
-### Módulo 7 - Integração com Banco de Dados
-- **Conexão com MySQL**: `pymysql`, Operações básicas
-- **ORM**: Introdução ao SQLAlchemy
+### Cap 7 - Protocolos de Comunicação e Python
+- **Comunicação com APIs**: Requisições HTTP com `requests`
+- **Sockets**: Comunicação em rede com `socket`
 
-### Módulo 8 - Web Scraping
-- **Bibliotecas**: `requests`, `BeautifulSoup`
-- **Técnicas de Extração de Dados**: Seletores CSS, XPath
-
-### Módulo 9 - Data Science e Machine Learning
-- **Introdução ao Data Science**: Manipulação de dados com `pandas`
-- **Visualização de Dados**: `matplotlib`, `seaborn`
-- **Machine Learning**: Introdução com `scikit-learn`
+### Cap 8 - Python x IoT
+- **Internet das Coisas (IoT)**: Fundamentos de IoT com Python
+- **Protocolos IoT**: MQTT e integração com dispositivos
 
 ## 🛠️ Ferramentas Utilizadas
 - **Python 3.x**
-- **Jupyter Notebooks**
 - **VSCode**
+- **Jupyter Notebooks**
 - **Git e GitHub**
 
 ---
