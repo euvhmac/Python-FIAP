@@ -1,3 +1,5 @@
+git checkout main
+git pull origin main
 # Curso Python FIAP - Study Repository
 
 Bem-vindo ao meu repositório de estudos do curso de Python da FIAP! Aqui, você encontrará toda a documentação dos meus estudos, desde os conceitos fundamentais até os tópicos mais avançados. Este repositório será atualizado conforme eu avançar no curso, organizando cada capítulo com os principais tópicos abordados.
